@@ -1,0 +1,39 @@
+# Lab Report 3
+
+## Streamlining ssh Configuration
+
+# Config file
+![config]()
+
+# Login with alias
+![simple_login]()
+
+# File copy using alias
+![alias_copy]()
+
+
+## Setup Github Access from ieng6
+
+# Public key on GitHub
+![]()
+
+# Private key on user account
+![]()
+
+# Commit and push changes using git commands
+![]()
+
+#Resulting commit link
+![]()
+
+## Copy whole directories with scp -r
+ 
+# Markdown-parse directory copy onto ieng6
+![]()
+
+# Logging onto ieng6 and compliling and runnning tests
+![]()
+
+# Copy directory and run tests in one line
+![]()
+
